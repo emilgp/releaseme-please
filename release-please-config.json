@@ -1,0 +1,12 @@
+{
+  "release-type": "node",
+  "changelog-sections": [
+    { "type": "feat", "hidden": false, "section": "Features" },
+    { "type": "fix", "hidden": false, "section": "Bug Fixes" }
+  ],
+  "packages": {
+    "alpha": {},
+    "baker": {},
+    "charlie": {}
+  }
+}
